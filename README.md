@@ -1,13 +1,12 @@
 # Skills-Challenge
 Weather Data Challenge
 
-This program takes in an unzipped .gz file from the weather data server, and can output one of 2 things based on the user input.
-The first being the Average of whichever month the user prefers along with whichever metric the user prefers as well. And the second
-is the forecast of the weather on a specific day of the year that data was extracted from. You can request the date using two
-different ways, either entering in which ever date you please, or entering "today's date" and the program will find today's date,
-match it with its corresponding value in the data, and finally returning the forecast of that day however many years ago.
+This program takes in an unzipped .gz file from the weather data server, and can output one of 2 things based on the user input.The first being the Average of whichever month the user prefers along with whichever metric the user prefers as well. And the secondis the forecast of the weather on a specific day of the year that data was extracted from. You can request the date using two different ways, either entering in which ever date you please, or entering "today's date" and the program will find today's date, match it with its corresponding value in the data, and finally returning the forecast of that day however many years ago. When you run the program, you need to include the decompressed zip file that you'll be testing. Afer this, the
+program will prompt you for additional commands
 
-Below you can find different snippets of user input
+The prgram uses different differnt built in functionality of the Java language such as scanners, string parsers, and ArrayList's
+
+Below you can find different snippets of user input.
 
 
 ![desscript](https://github.com/aabdelw1/Skills-Challenge/blob/master/Screen%20Shot%202018-11-09%20at%2012.15.10%20PM.png?raw=true "Title")
